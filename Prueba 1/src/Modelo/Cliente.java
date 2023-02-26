@@ -2,8 +2,8 @@ package Modelo;
 
 public class Cliente {
 	
-	public String id;
-	public String nombre;
-	public String direccion;
+	public String idCliente;
+	public String nombreCliente;
+	public String direccionCliente;
 
 }

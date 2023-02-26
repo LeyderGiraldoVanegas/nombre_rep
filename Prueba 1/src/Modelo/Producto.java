@@ -2,8 +2,8 @@ package Modelo;
 
 public class Producto {
 	
-	public String codigo;
-	public String nombre;
-	public double valor;
+	public String codigoProducto;
+	public String nombreProducto;
+	public double valor1;
 
 }
